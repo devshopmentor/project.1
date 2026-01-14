@@ -1,0 +1,113 @@
+ *{margin: 0; 
+    padding: 0;
+    font-family:sans-serif ;
+}
+.body{
+   margin-left:200px ; margin-right:200px ; 
+}
+
+
+.navber{
+ padding-top:50px ;
+}
+.navbutton{
+    color: #fff;
+    background-color: black;
+    padding:8px 15px ;
+    margin-left:720px;
+    border: none;
+    border-radius: 5px;
+
+}
+.main{
+    margin-top: 30px;
+}
+.mainh3{
+    text-align: center;
+    
+}
+.h5-1{
+    margin-top: 20px;
+    margin-bottom: 3px;
+}
+
+.p1{
+    font: bold;
+    font-size: 16px;
+}
+
+.clasic-dev{
+    display: flex;
+    gap: 5px;
+    margin-top: 10px;
+}
+
+
+.main-div{
+    display: flex;
+    margin-bottom: 30px;
+}   
+.Photo{
+    margin-top: 10px;
+    height: 150px;
+    width: 140px;
+}
+.p-1{
+    margin-top: 10px;
+}
+.h4-2{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.tble-1{
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.tr-t{
+    padding: 8px 8px;
+    font-size: 14px;
+}
+.hr-2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.h4-1{
+    margin-top: 20px;
+}
+.p-3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.tr-tt{
+    padding:10px 10px ;
+    font-size: 14px;
+}
+.p-4{
+    font-size: 18px;
+    margin-top: 10px;
+}
+.n-div{
+display: flex;
+ gap: 5px;   
+}
+.p-5{
+ font-size: 40px;   
+}
+.p-6{
+    padding-top:  10px; ;
+    
+}
+.p--{
+    margin-top:10px ;
+}
+.pp{
+    margin-bottom: 50px;
+}
+
+.img2{
+    height: 100px; width:140px;
+}
